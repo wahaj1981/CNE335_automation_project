@@ -1,4 +1,4 @@
-# This is the code for the CNE335 Final Project
+# This is the code for the CNE335 Final Project to ping an AWS EC2 LINUX workstation
 # Wahaj Al Obid
 # CNE 335 Winter 2025
 
