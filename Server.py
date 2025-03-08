@@ -1,6 +1,4 @@
 import os
-import platform
-import subprocess
 
 class Server:
     """ Server class for representing and manipulating servers. """
